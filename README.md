@@ -131,7 +131,7 @@ Every ghost in The Remnant is rooted in real folklore. We researched the mytholo
 
 We're building The Remnant in the open. Track our progress:
 
-**[Public Roadmap](https://purplehaxttv.atlassian.net/jira/discovery/share/views/bc839b1c-f48c-4c57-a3fd-0be04bb57b26)**
+**[Public Roadmap](https://github.com/purplehaxllc/the-remnant-public/wiki/Roadmap)**
 
 Target release: **December 31, 2026**
 
@@ -141,7 +141,7 @@ The Remnant draws from folklore traditions across the world. We take that respon
 
 That said, we're human. If you see something in this game that misrepresents your culture, your folklore, or your traditions, **please tell us.** We will listen, and we will act.
 
-**[Report a cultural concern](https://github.com/purplehaxttv-stream-org/the-remnant-public/issues/new?labels=cultural-concern&title=Cultural+Concern:+)**
+**[Report a cultural concern](https://github.com/purplehaxllc/the-remnant-public/issues/new?template=cultural-concern.yml)**
 
 ---
 
